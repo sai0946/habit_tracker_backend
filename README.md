@@ -8,7 +8,6 @@
 [![Express](https://img.shields.io/badge/Express-4.x-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Tests](https://img.shields.io/badge/tests-26%20passing-success?style=flat)](https://github.com)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat)](LICENSE)
 
 </div>
 
@@ -136,7 +135,6 @@ src/
 ### Prerequisites
 
 - **Node.js** v14 or higher
-- **PostgreSQL** (local or cloud)
 - npm or yarn
 
 ### Installation
@@ -177,7 +175,7 @@ src/
 
 4. **Database setup**
    
-   The database is already hosted and configured at Supabase. For local development, see [Database Setup](#database-setup-optional) below.
+   The database is already hosted and configured at Supabase.
 
 ### Running the Application
 
