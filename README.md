@@ -153,7 +153,7 @@ src/
 
 3. **Configure environment variables**
    
-   Create a `.env` file in the project root:
+   Create a `.env` file in the project root or use the .env file which i have sent for database credentials, use that crediantials :
    
    ```env
    NODE_ENV=production
@@ -597,18 +597,3 @@ graph LR
 ---
 
 <div align="center">
-
-**Built with ❤️ using Node.js, Express, and PostgreSQL**
-
-[Report Bug](https://github.com) · [Request Feature](https://github.com)
-
-</div>
-
----
-
-## 📥 Download
-
-To save this README:
-1. Click the copy icon in the artifact toolbar above
-2. Paste into a new file named `README.md`
-3. Save in your project root directory
